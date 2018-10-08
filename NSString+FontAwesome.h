@@ -578,6 +578,7 @@ typedef NS_ENUM(NSInteger, FAIcon) {
     FAvenusDouble,
     FAvenusMars,
     FAviacoin,
+	FAwhatsapp,
     
     /* FontAwesome ver 4.4.0 */
     FA500px,
