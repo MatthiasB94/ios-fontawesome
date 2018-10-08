@@ -743,7 +743,6 @@ typedef NS_ENUM(NSInteger, FAIcon) {
     FAWindowRestore,
     FAWpexplorer
 };
-};
 
 
 
